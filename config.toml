@@ -2,7 +2,7 @@ baseURL = "/"
 
 languageCode = "en-us"
 DefaultContentLanguage = "en"
-title = "DocDock Documentation"
+title = "Birdming.com"
 theme = "docdock"
 #themesdir = "../.."
 pygmentsCodeFences = true
