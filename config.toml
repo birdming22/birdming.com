@@ -43,6 +43,11 @@ enableGitInfo = true
 [outputs]
 home = [ "HTML", "RSS", "JSON"]
 
+#[[menu.main]]
+#name = "站內搜尋"
+#weight = 40
+#identifier = "search"
+#url = "/search"
 
 [[menu.shortcuts]]
 pre = "<h3>More</h3>"
