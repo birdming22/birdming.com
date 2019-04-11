@@ -1,11 +1,11 @@
 ---
 title: Status
+date: 2018-02-09 19:21:11 Z
 description: Status updates
 menu: secondary
-date: 2018-02-09T19:21:11Z
 image: 
 imageAlt: 
-imageCap:
+imageCap: 
 draft: false
 ---
 

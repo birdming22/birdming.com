@@ -1,5 +1,5 @@
 ---
-title: "Programming"
+title: Programming
 weight: 2
 ---
 
