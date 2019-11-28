@@ -1,5 +1,5 @@
 ---
-title: "Ubuntu"
+title: Ubuntu
 weight: 1
 ---
 
