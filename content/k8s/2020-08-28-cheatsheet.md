@@ -11,3 +11,7 @@ To list all deployments:
 To delete the deployment:
 
     kubectl delete -n NAMESPACE deployment DEPLOYMENT
+
+## Master Node IP
+
+    kubectl get nodes --selector=node-role.kubernetes.io/master -o jsonpath='{$.items[*].status.addresses[?(@.type=="InternalIP")].address}'
